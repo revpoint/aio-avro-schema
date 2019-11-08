@@ -37,7 +37,7 @@ setup(
     long_description=readme,
     include_package_data=True,
     keywords='avro_schema',
-    name='avro_schema',
+    name='aio_avro_schema',
     packages=find_packages(include=['avro_schema', 'avro_schema.*']),
     setup_requires=setup_requirements,
     test_suite='tests',
